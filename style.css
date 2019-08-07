@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    height: 100hv;
+    background-color: rgb(39, 41, 68);
+    font-family: sans-serif;
+}
+.score{
+    color: rgb(224, 224, 224);
+}
